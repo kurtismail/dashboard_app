@@ -3,7 +3,7 @@
   <br />
   <br />
 
-  <h2 align="center">Dashboard chart</h2>
+  <h2 align="center">Dashboard chart css</h2>
 
   Dashboard chart build using HTML, CSS, and JavaScript.
 
